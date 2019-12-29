@@ -1,2 +1,2 @@
 # ci-app-pagination
-Membuat pagination pada ci-app
+Try to make pagination with Codeigniter. :D
